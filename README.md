@@ -1,2 +1,2 @@
 # igc
-instagram calendar
+igcal
